@@ -13,8 +13,8 @@ Welcome to my sample version of the Flipkart Page clone! This project was create
 To view the Flipkart Landing Page clone, follow these steps:
 
 1. Clone the repository to your local machine using the command: `git clone` followed by http or ssh link.
-
-2. Open the `index.html` file in your preferred web browser.
+2. Alternatively, you can download the code as a ZIP file and extract it to your local machine.
+3. Open the `index.html` file in your preferred web browser.
 
 Please keep in mind that this is a basic version created solely for learning purposes and may not provide the full functionality or content of the actual Flipkart website. It serves as a starting point for understanding HTML, CSS, and Bootstrap concepts and practicing your web development skills.
 
